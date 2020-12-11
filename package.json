@@ -1,0 +1,22 @@
+{
+  "name": "adventofcode2015",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-Kryspin/AdventOfCode2015.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/John-Kryspin/AdventOfCode2015/issues"
+  },
+  "homepage": "https://github.com/John-Kryspin/AdventOfCode2015#readme",
+  "dependencies": {
+    "md5": "^2.3.0"
+  }
+}
